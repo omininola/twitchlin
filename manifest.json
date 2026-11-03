@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "twitchlin",
+  "name": "",
+  "version": "1.0.0",
+  "author": "omininola",
+  "description": "",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "barWidget": {
+    "displayName": "",
+    "description": "",
+    "category": "",
+    "allowMultiple": false
+  }
+}
